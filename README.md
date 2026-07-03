@@ -3,15 +3,17 @@ About kedro-viz-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kedro-viz-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/kedro-org/kedro-viz
+Home: https://kedro.org/
 
-Package license: BSD-3-Clause AND Apache-2.0
+Package license: Apache-2.0
 
 Summary: Kedro-Viz helps visualise Kedro data and analytics pipelines
 
 Development: https://github.com/kedro-org/kedro-viz
 
-Documentation: https://demo.kedro.org/
+Documentation: https://docs.kedro.org/projects/kedro-viz
+
+Kedro-Viz helps visualise Kedro data and analytics pipelines
 
 Current build status
 ====================
@@ -20,7 +22,9 @@ Current build status
 <table><tr>
     <td>All platforms:</td>
     <td>
-      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
+      <a href="https://github.com/conda-forge/kedro-viz-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/kedro-viz-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
+      </a>
     </td>
   </tr>
 </table>
